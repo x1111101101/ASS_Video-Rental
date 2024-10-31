@@ -1,4 +1,4 @@
-# ASS_Video-Rental
+# Software Engineering-Assignment: Video-Rental Service
 applied Object Oriented Programming to C lang  
 based on void* type and function pointers
 
